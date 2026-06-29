@@ -32,10 +32,6 @@ Start the dev server: npm run dev
 Open the local URL shown in your terminal (e.g. http://localhost:5173)
 
 
-Live Demo
-
-(Add your hosted link here, e.g. via Vercel or Netlify)
-
 Author
 
 Sandhiya — SkillCraft Technology Web Development Intern
