@@ -1,16 +1,41 @@
-# React + Vite
+React Calculator Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+A fully functional calculator built with React, as part of the SkillCraft Technology web development internship (Task 2). It supports chained arithmetic expressions, character-level deletion, and clearing, all managed through React state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Supports addition, subtraction, multiplication, and division
+Chained operations (e.g. 12+5*3) evaluated in one go
+Clear (C) button to reset input
+Delete (DEL) button to remove the last character
+Error handling for invalid expressions
+Decimal point support
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies Used
+
+
+React (useState hook)
+Vite
+CSS3
+
+
+How to Run
+
+
+Clone this repository: git clone <repo-link>
+Install dependencies: npm install
+Start the dev server: npm run dev
+Open the local URL shown in your terminal (e.g. http://localhost:5173)
+
+
+Live Demo
+
+(Add your hosted link here, e.g. via Vercel or Netlify)
+
+Author
+
+Sandhiya — SkillCraft Technology Web Development Intern
